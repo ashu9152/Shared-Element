@@ -1,0 +1,2 @@
+rootProject.name = "Shared Element Activity Transition"
+include ':app'
